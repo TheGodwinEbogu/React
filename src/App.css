@@ -1,0 +1,11 @@
+.input {
+  margin-bottom: 20px;
+  height: 30px;
+  width: 250px;
+  font-size: 18px;
+}
+li {
+  font-size: 1.6rem;
+  list-style: none;
+  margin-bottom: 1.5rem;
+}
